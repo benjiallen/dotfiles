@@ -1,0 +1,4 @@
+# XONSH WEBCONFIG START
+$XONSH_COLOR_STYLE = 'monokai'
+$PROMPT = '[{localtime}] {YELLOW}{env_name} {BOLD_BLUE}{user}@{hostname} {BOLD_GREEN}{cwd} {gitstatus}{RESET}\n> '
+# XONSH WEBCONFIG END
